@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imtaekh/online_ping_pong.git"
+    "url": "git+https://github.com/samiklah/ping-pong.git"
   },
   "keywords": [
     "node",
     "game",
     "online"
   ],
-  "author": "imtaek hong",
+  "author": "sami klah",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imtaekh/online_ping_pong/issues"
+    "url": "https://github.com/samiklah/ping-pong/issues"
   },
-  "homepage": "https://github.com/imtaekh/online_ping_pong#readme",
+  "homepage": "https://github.com/samiklah/oping-pong#readme",
   "dependencies": {
     "express": "^4.13.4",
     "socket.io": "^1.4.5",
